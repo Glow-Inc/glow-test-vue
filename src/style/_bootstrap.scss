@@ -1,0 +1,9 @@
+/////////////////////////
+// Import bootstrap styles
+// Will be imported in app.vue
+// NOTE: Do not import this file in other vue/style files except app.vue
+/////////////////////////
+
+
+// Option 1: all
+@import '~bootstrap/scss/bootstrap';

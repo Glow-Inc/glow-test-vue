@@ -1,0 +1,10 @@
+// Only variables, mixins in this file
+// DO not include any actual css!
+
+// Typograph
+$font-family-base: -apple-system, BlinkMacSystemFont, 'Hiragino Sans GB', "PingFang SC",
+  "Helvetica Neue", STHeiti, "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
